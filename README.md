@@ -19,7 +19,10 @@ This project focuses on algorithmic training using **Python** in **Jupyter Noteb
    ```
 3. Install required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install yfinance
+   pip install pandas
+   pip install numpy
+   pip install matplotlib
    ```
 4. Start Jupyter Notebook:
    ```bash
